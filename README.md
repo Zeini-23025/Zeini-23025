@@ -13,9 +13,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
-
-
 ```javascript
 class Developer {
     constructor() {
