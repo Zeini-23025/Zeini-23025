@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
 ```javascript
 class Developer {
@@ -50,7 +50,7 @@ const zeini = new Developer();
 
 ---
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Arsenal & Expertise
 
 <div align="center">
 
@@ -96,12 +96,14 @@ const zeini = new Developer();
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeini-23025&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeini-23025&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+  <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeini-23025&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/> -->
 </div>
 
-<div align="center">
+<br>
+
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeini-23025&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 <!-- Activity Graph -->
 <div align="center">
@@ -154,12 +156,12 @@ const zeini = new Developer();
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeini.cheikh.dev@gmail.com)
 
----
+<!-- ---
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+--- -->
 
 ⭐️ **From [Zeini-23025](https://github.com/Zeini-23025)** | Made with ❤️ and lots of ☕
 
