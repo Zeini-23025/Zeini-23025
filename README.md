@@ -1,28 +1,36 @@
+<!-- Banner avec animation -->
 <div align="center">
+  <a href="https://github.com/Zeini-23025">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Zeini%20Ould%20Cheikh&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  </a>
+</div>
 
-# 🚀 Zeini | Full-Stack Developer
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Mauritania+%F0%9F%87%B2%F0%9F%87%B7+to+the+World+%F0%9F%8C;Building+Scalable+Web+Applications;API+Architect+%26+System+Designer;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+from+Mauritania;Building+Amazing+Web+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
-
-[![GitHub followers](https://img.shields.io/github/followers/Zeini-23025?style=social)](https://github.com/Zeini-23025)
-[![GitHub stars](https://img.shields.io/github/stars/Zeini-23025?style=social)](https://github.com/Zeini-23025)
-
+<!-- Profile Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeini-23025&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Zeini-23025?logo=github&style=for-the-badge&color=0969da&labelColor=302d41" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Zeini-23025?logo=github&style=for-the-badge&color=ee6a70&labelColor=302d41" alt="Stars"/>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<!-- About Me Section with Hover Card Effect -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
-
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 class Developer {
     constructor() {
         this.name = "Zeini Cheikh";
         this.location = "Nouakchott, Mauritania 🇲🇷";
-        this.role = "Junior Full-Stack Developer";
-        this.workingOn = ["Web Development", "API Design", "System Programming"];
+        this.role = "Full-Stack Developer";
+        this.workingOn = "Scalable Web Applications";
         this.languages = ["JavaScript", "TypeScript", "Python", "Java", "C++",'PHP'];
         this.databases = ["MySQL", "MongoDB"];
         this.cloud = ["Docker", "Linux"];
@@ -46,51 +54,53 @@ class Developer {
 const zeini = new Developer();
 ```
 
-- 🔭 **Currently Working:** Academic and personal development projects
-- 📚 **Learning:** Advanced software architecture and cloud technologies
-- 💡 **Goal:** Contributing to open-source projects and building impactful applications
-- ⚡ **Hobbies:** Coding, exploring new tech trends, and connecting with developers worldwide
+<br clear="both">
+
+### 🎯 Quick Facts
+- 🔭 **Currently Building:** Next-generation web applications with modern tech stack
+- 🌱 **Learning:** Cloud Architecture, Microservices, and DevOps best practices  
+- 💬 **Ask me about:** Web Development, API Design, Database Architecture
+- ⚡ **Fun fact:** I can debug code faster than I can find my keys! 🔍
+- 🎮 **When not coding:** Exploring new technologies and mentoring junior developers
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- Enhanced Tech Stack with Skill Levels -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> Tech Arsenal & Expertise
 
+### 💻 Programming Languages
 <div align="center">
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,java,spring,php,nodejs&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github&theme=dark" />
+</p>
+
+### 🛠️ Development Tools & API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,githubactions&theme=dark" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
@@ -122,50 +132,89 @@ const zeini = new Developer();
 
 ---
 
+<!-- Contribution Snake -->
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zeini-23025/Zeini-23025/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Zeini-23025/Zeini-23025/output/snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
 
-## 🌟 My Development Philosophy
+
+
+<!-- Coding Activity -->
+<!-- ## ⚡ Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zeini-23025&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" alt="Wakatime Stats"/>
+</div>
+
+--- -->
+
+<!-- Fun Interactive Section -->
+## 🎮 Fun Zone
 
 <div align="center">
 
-> **"Clean code always looks like it was written by someone who cares."**
-> 
-> *- Robert C. Martin*
+### 🎲 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+
+
+### 💭 Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-### What drives me:
-- 🎯 **Quality over Quantity:** Writing maintainable, scalable code
-- 🚀 **Continuous Learning:** Staying updated with latest technologies
-- 🤝 **Collaboration:** Believing in teamwork and knowledge sharing
-- 💡 **Problem Solving:** Finding elegant solutions to complex challenges
-
 ---
 
-
-## 🤝 Let's Connect & Collaborate!
+<!-- Contact Section with Social Links -->
+## 🌐 Let's Connect & Build Something Amazing!
 
 <div align="center">
+
+### 📫 Reach out to me!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zeini-23025)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeini.cheikh.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeiny.cheikh.dev@gmail.com)
+
+### 💌 Let's Collaborate!
+```typescript
+interface Collaboration {
+  openSource: boolean;
+  startupProjects: boolean;
+  mentorship: boolean;
+  techTalks: boolean;
+  codeReviews: boolean;
+}
+
+const availableFor: Collaboration = {
+  openSource: true,
+  startupProjects: true,
+  mentorship: true,
+  techTalks: true,
+  codeReviews: true
+};
+
+// Always ready to help fellow developers! 🤝
+```
+
+</div>
 
 ---
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐️ **From [Zeini-23025](https://github.com/Zeini-23025)** | Made with ❤️ and lots of ☕
-
-*"Building the future, one commit at a time"*
-
+<!-- Footer with Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  ### 🚀 "Code is not just what I do, it's who I am"
+  
+  <sub>⭐️ From [Zeini-23025](https://github.com/Zeini-23025) | Made with ❤️ and lots of ☕ | Building the future, one commit at a time</sub>
+  
+  <br><br>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" />
 </div>
