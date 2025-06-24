@@ -23,7 +23,7 @@ class Developer {
         this.location = "Nouakchott, Mauritania 🇲🇷";
         this.role = "Junior Full-Stack Developer";
         this.workingOn = ["Web Development", "API Design", "System Programming"];
-        this.languages = ["JavaScript", "TypeScript", "Python", "Java", "C++",'PHP'];
+        this.languages = ["JavaScript", "TypeScript", "Python", "Java", "C++", "PHP"];
         this.databases = ["MySQL", "MongoDB"];
         this.cloud = ["Docker", "Linux"];
         this.challenge = "Building the next big thing!";
