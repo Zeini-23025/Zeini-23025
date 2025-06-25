@@ -12,6 +12,13 @@
 
 <br clear="both">
 
+<br>
+<div align="center">
+  <img src="https://moe-counter.es3n1n.eu/@Zeini-23025?theme=asoul" alt="Profile view count">
+</div>
+
+<br clear="both">
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
