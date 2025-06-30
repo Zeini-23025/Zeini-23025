@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+from+Mauritania;Building+Amazing+Web+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
-<!--
-[![GitHub followers](https://img.shields.io/github/followers/Zeini-23025?style=social)](https://github.com/Zeini-23025)
-[![GitHub stars](https://img.shields.io/github/stars/Zeini-23025?style=social)](https://github.com/Zeini-23025)
--->
-
 </div>
 <!-- Profile Counter -->
 <div align="center">
