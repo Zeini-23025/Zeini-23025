@@ -4,9 +4,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+from+Mauritania;Building+Amazing+Web+Applications;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
+<!--
 [![GitHub followers](https://img.shields.io/github/followers/Zeini-23025?style=social)](https://github.com/Zeini-23025)
 [![GitHub stars](https://img.shields.io/github/stars/Zeini-23025?style=social)](https://github.com/Zeini-23025)
+-->
 
+</div>
+<!-- Profile Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zeini-23025&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Zeini-23025?logo=github&style=for-the-badge&color=0969da&labelColor=302d41" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Zeini-23025?logo=github&style=for-the-badge&color=ee6a70&labelColor=302d41" alt="Stars"/>
 </div>
 
 ---
